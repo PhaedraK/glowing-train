@@ -1,0 +1,11 @@
+---
+title: "NewQuarto"
+format: html
+editor: visual
+---
+
+## Adding a photo
+
+Here's a photo of one of my favourite bat specimens. It is the holotype of Rhinolophus affinis princeps.
+
+![](images/1897_4_18_13-Rhinolophus_affinis_princeps-Holotype-Noseleaf-dorsal-02.jpg)
